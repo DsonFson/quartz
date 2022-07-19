@@ -22,3 +22,7 @@ links:
     link: https://gab.com/DsonFson
   - link_name: Gmail
     link: mailto:danielsonferguson@gmail.com
+    
+    ```yaml {title="data/config.yaml"}
+ enableCodeBlockTitle: true  # example from step 1
+ ```
